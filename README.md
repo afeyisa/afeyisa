@@ -40,9 +40,7 @@ My goal is to continually improve my skills and contribute to impactful projects
 ![Feyisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afeyisa&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afeyisa&layout=compact&theme=radical)
 
-## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afeyisa&repo=tic-tac-toe&theme=radical)](https://github.com/afeyisa/tic-tac-toe)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afeyisa&repo=cv-application&theme=radical)](https://github.com/afeyisa/cv-application)
+
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/feyisa-kenenisa-91773918a/)
