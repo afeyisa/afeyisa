@@ -15,6 +15,8 @@ My goal is to continually improve my skills and contribute to impactful projects
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -25,7 +27,7 @@ My goal is to continually improve my skills and contribute to impactful projects
 
 ## 🌟 Featured Projects
 - [Tic Tac Toe Game](https://github.com/afeyisa/tic-tac-toe) - A simple Tic Tac Toe game to learn JavaScript code organization with factory functions and modules.
-- [Book Store mangement System](https://github.com/afeyisa/aait-db-project) - A Full Stack Project to learn Relational Database system, node js, react js .
+- [Book Store mangement System](https://github.com/afeyisa/aait-db-project) - A Full Stack Project to learn Relational Database system, node js,Express and react js .
   
 ## 🌐 GitHub Pages Projects
 - [Tic Tac Toe Game](https://afeyisa.github.io/tic-tac-toe) .
