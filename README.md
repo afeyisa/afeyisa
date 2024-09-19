@@ -19,14 +19,12 @@ My goal is to continually improve my skills and contribute to impactful projects
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Specialization
-**Cybersecurity** | **Web Development**
+**** | **Web Development**
 
 ## 🌟 Featured Projects
 - [Tic Tac Toe Game](https://github.com/afeyisa/tic-tac-toe) - A simple Tic Tac Toe game to learn JavaScript code organization with factory functions and modules.
-- [CV Application](https://github.com/afeyisa/cv-application) - A React-based CV builder application to showcase your resume dynamically.
 
 ## 📈 GitHub Stats
 ![Feyisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afeyisa&show_icons=true&theme=radical)
