@@ -26,6 +26,13 @@ My goal is to continually improve my skills and contribute to impactful projects
 ## 🌟 Featured Projects
 - [Tic Tac Toe Game](https://github.com/afeyisa/tic-tac-toe) - A simple Tic Tac Toe game to learn JavaScript code organization with factory functions and modules.
 - [Book Store mangement System](https://github.com/afeyisa/aait-db-project) - A Full Stack Project to learn Relational Database system, node js, react js .
+  
+## 🌐 GitHub Pages Projects
+- [Tic Tac Toe Game](https://afeyisa.github.io/tic-tac-toe) .
+- [Etch-a-Sketch](https://afeyisa.github.io/-Etch-a-Sketch/) .
+- [simple Calculator](https://afeyisa.github.io/Calculator/) .
+- [Admin Dashboard](https://afeyisa.github.io/admin-dashboard/) .
+
 
 ## 📈 GitHub Stats
 ![Feyisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afeyisa&show_icons=true&theme=radical)
