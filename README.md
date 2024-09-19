@@ -21,10 +21,11 @@ My goal is to continually improve my skills and contribute to impactful projects
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ### Specialization
-**** | **Web Development**
+**Computer** | **Web Development**
 
 ## 🌟 Featured Projects
 - [Tic Tac Toe Game](https://github.com/afeyisa/tic-tac-toe) - A simple Tic Tac Toe game to learn JavaScript code organization with factory functions and modules.
+- [Book Store mangement System](https://github.com/afeyisa/aait-db-project) - A Full Stack Project to learn Relational Database system, node js, react js .
 
 ## 📈 GitHub Stats
 ![Feyisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afeyisa&show_icons=true&theme=radical)
