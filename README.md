@@ -1,6 +1,6 @@
 # Hi there, I'm Feyisa Kenenisa 👋
 
-Welcome to my GitHub profile! I'm an aspiring Electrical and Computer Engineering student, passionate about learning and building innovative solutions in the tech space. 
+Welcome to my GitHub profile! I'm an aspiring Electrical and Computer Engineering student, Web Developer, passionate about learning and building innovative solutions in the tech space. 
 My goal is to continually improve my skills and contribute to impactful projects.
 
 ## 🚀 Skills & Technologies
