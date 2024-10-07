@@ -40,8 +40,6 @@ My goal is to continually improve my skills and contribute to impactful projects
 ![Feyisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afeyisa&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afeyisa&layout=compact&theme=radical)
 
-
-
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/feyisa-kenenisa-91773918a/)
 
