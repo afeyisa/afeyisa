@@ -6,8 +6,8 @@ My goal is to continually improve my skills and contribute to impactful projects
 ## 🚀 Skills & Technologies
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go?style=flat&logo=go&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Go](https://img.shields.io/badge/Go-1.x-00ADD8?style=flat&logo=go&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
