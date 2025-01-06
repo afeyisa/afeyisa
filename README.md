@@ -1,7 +1,7 @@
-# Hi there, I'm Feyisa Kenenisa 👋
+# Welcome! , I'm Feyisa K. 👋
 
-Welcome to my GitHub profile! I'm currently Electrical and Computer Engineering student Addis Ababa University(AAU), Web Developer, passionate about learning and building innovative, inclusive and benefit society. 
-My goal is to continually improve my skills and contribute to impactful projects.
+Currently, an Electrical and Computer Engineering student at Addis Ababa University(AAU) and a Web Developer. 
+I like those who always went continuously learn and improve thier skills, contribute something inclusive and benefit society.
 
 ## 🚀 Skills & Technologies
 
@@ -14,17 +14,21 @@ My goal is to continually improve my skills and contribute to impactful projects
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)  
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Specialization
-**Computer** | **Web Development**
+**Computer** | #**Web Development**
 
 ## 🌟 Featured Projects
 - [Tic Tac Toe Game](https://github.com/afeyisa/tic-tac-toe) - A simple Tic Tac Toe game to learn JavaScript code organization with factory functions and modules.
