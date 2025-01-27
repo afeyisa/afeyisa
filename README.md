@@ -1,6 +1,6 @@
 # Welcome! , I'm Feyisa K. 👋
 
-Currently, an Electrical and Computer Engineering student at Addis Ababa University(AAU) and a Web Developer. 
+Currently, I am an Electrical and Computer Engineering student at Addis Ababa University(AAU) and a Web Developer. 
 I like those who always eager to continuously learn and improve thier skills, contribute something inclusive and beneficial to society.
 
 ## 🚀 Skills & Technologies
