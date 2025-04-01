@@ -25,9 +25,9 @@ I like those who always eager to continuously learn and improve thier skills, co
 **Computer** | #**Web Development**
 
 ## 🌟 Featured Projects
-- [Tic Tac Toe Game](https://github.com/afeyisa/tic-tac-toe) - A simple Tic Tac Toe game to learn JavaScript code organization with factory functions and modules.
+- [Event mangement System](https://github.com/afeyisa/local-event-management) -
 - [Book Store mangement System](https://github.com/afeyisa/aait-db-project) - A Full Stack Project to learn Relational Database system, node js,Express and react js .
-  
+- [Hospital Finance](https://github.com/afeyisa/hospitalfinace_backend)   
 ## 🌐 GitHub Pages Projects
 - [Tic Tac Toe Game](https://afeyisa.github.io/tic-tac-toe) .
 - [Etch-a-Sketch](https://afeyisa.github.io/-Etch-a-Sketch/) .
