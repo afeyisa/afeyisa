@@ -25,8 +25,8 @@ I like those who always eager to continuously learn and improve thier skills, co
 **Computer** | #**Web Development**
 
 ## 🌟 Featured Projects
-- [Event mangement System](https://github.com/afeyisa/local-event-management) -
-- [Book Store mangement System](https://github.com/afeyisa/aait-db-project) - A Full Stack Project to learn Relational Database system, node js,Express and react js .
+- [Event mangement System](https://github.com/afeyisa/local-event-management)
+- [Book Store mangement System](https://github.com/afeyisa/aait-db-project)
 - [Hospital Finance](https://github.com/afeyisa/hospitalfinace_backend)   
 ## 🌐 GitHub Pages Projects
 - [Tic Tac Toe Game](https://afeyisa.github.io/tic-tac-toe) .
